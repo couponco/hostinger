@@ -174,7 +174,7 @@ The discount is automatically applied during checkout on qualifying plans.
 
 ---
 
-## TRBF15 Coupon Code
+## CODEINBF Coupon Code
 
 **Coupon Code:**
 
@@ -189,7 +189,7 @@ The discount is automatically applied during checkout on qualifying plans.
 
 ## Up To 86% OFF (Official Indonesia Promotion)
 
-Hostinger's official promotions page frequently advertises discounts reaching 86% off on hosting and website builder plans depending on region and promotional period. :contentReference[oaicite:8]{index=8}
+Hostinger's official promotions page frequently advertises discounts reaching 86% off on hosting and website builder plans depending on region and promotional period. 
 
 ---
 
